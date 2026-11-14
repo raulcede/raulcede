@@ -1,6 +1,6 @@
 ## Hi, I'm Raul! 👋
 
-Computer science student from Venezuela🇻🇪
+💻 Computer science student from Venezuela
 
 
  ## 🔭 Technologies 
